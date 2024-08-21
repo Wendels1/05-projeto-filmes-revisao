@@ -1,0 +1,80 @@
+*{
+    margin: auto;
+}
+
+
+body{
+    padding-bottom: 500px;
+}
+
+h2{
+    font-size: 22px;
+    color: blue;
+}
+
+h3{
+    color: red;
+}
+
+.Meu-Titulo{
+    color: orange;
+}
+
+#Meu-h3{
+    color: purple;
+}
+
+.texto-pequeno{
+    color: black;
+}
+
+.fundo-azul{
+    background-color: blue;
+}
+
+.meu-paragrafo{
+    font-size: 8px;
+}
+
+#minha-div{
+    background-image: url(../assets/imagem_azul.htm);
+    padding: 20px;
+}
+
+#alura-largura{
+    height: 200px;
+    width: 200px;
+    background-color: bisque;
+}
+
+#div-espacamento{
+    background-color: aqua;
+    padding: 10px 20px 10px 20px;
+}
+
+#div-margen{
+    background-color: aqua;
+    padding: 10px 20px 10px 20px;
+}
+
+#div-borda{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    border: 3px solid black;
+}
+
+#div-arredondamento-borda{
+    background-color: antiquewhite;
+    height: 200px;
+    width: 200px;
+    margin-top: 10px;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+
+.meu-texto{
+    background-color: darkcyan;
+    text-align: center;
+}
