@@ -1,11 +1,18 @@
-
-/build/
-/dist/
-
-
-*.log
-*.tmp
-
-
+# Ignorar pastas do sistema
+Ambiente de Impressão/
+Ambiente de Rede/
+Configurações Locais/
+Cookies/
+Dados de Aplicativos/
+Documents/
+IntelGraphicsProfiles/
+NTUSER.DAT*
+AppData/
+Favorites/
+Contacts/
+Downloads/
+Music/
+Videos/
+Desktop.ini
 .vscode/
-.idea/
+.cache/
