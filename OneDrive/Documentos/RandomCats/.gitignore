@@ -1,17 +1,11 @@
-# Ignorar pastas do sistema
-Ambiente de Impressão/
-Ambiente de Rede/
-Configurações Locais/
-Cookies/
-Documents/
-IntelGraphicsProfiles/
-NTUSER.DAT*
-AppData/
-Favorites/
-Contacts/
-Downloads/
-Music/
-Videos/
-Desktop.ini
+
+/build/
+/dist/
+
+
+*.log
+*.tmp
+
+
 .vscode/
-.cache/
+.idea/
